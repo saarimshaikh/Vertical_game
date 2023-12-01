@@ -7,5 +7,7 @@
 - Use "D" to move right
 - Use "W" to move up
 
+https://github.com/saarimshaikh/Vertical_game/assets/65160026/c4c5c94d-c794-4bc1-9671-502a50d21e95
+
 ### Deployed Link:
 https://verticlegame.netlify.app/
